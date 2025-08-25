@@ -1,2 +1,2 @@
-# didactic-glow
-this is the first step of the travel
+# didactic-glow 
+Everything begins here ..
